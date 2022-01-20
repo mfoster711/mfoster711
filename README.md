@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfoster711
-- 👀 I’m interested in learning how to use Github, Python and Selenium
-- 🌱 I’m currently learning Github
+- 👀 I’m interested in learning how to use Github, Python, PyTest and Selenium
+- 🌱 I’m currently learning all of these items for the first time.
 - 💞️ I’m looking to collaborate on nohting at momement.
 
 <!---
